@@ -15,6 +15,7 @@
  *
  * @package			Opauth.Strategy
  */
+#[\AllowDynamicProperties]
 class OpauthStrategy {
 
 	/**

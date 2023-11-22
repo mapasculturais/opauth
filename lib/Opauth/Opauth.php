@@ -15,6 +15,7 @@
  *
  * @package			Opauth
  */
+#[\AllowDynamicProperties]
 class Opauth {
 	/**
 	 * User configurable settings
